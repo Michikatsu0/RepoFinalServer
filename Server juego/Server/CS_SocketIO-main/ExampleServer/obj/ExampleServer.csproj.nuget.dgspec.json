@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Equipo\\Documentos\\GitHub\\SystemsWork\\Systems Work\\Original\\CS_SocketIO-main\\ExampleServer\\ExampleServer.csproj": {}
+    "D:\\UPB\\RepoFinalServer\\Server juego\\Server\\CS_SocketIO-main\\ExampleServer\\ExampleServer.csproj": {}
   },
   "projects": {
-    "D:\\Equipo\\Documentos\\GitHub\\SystemsWork\\Systems Work\\Original\\CS_SocketIO-main\\CS_SocketIO\\CS_SocketIO.csproj": {
+    "D:\\UPB\\RepoFinalServer\\Server juego\\Server\\CS_SocketIO-main\\CS_SocketIO\\CS_SocketIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Equipo\\Documentos\\GitHub\\SystemsWork\\Systems Work\\Original\\CS_SocketIO-main\\CS_SocketIO\\CS_SocketIO.csproj",
+        "projectUniqueName": "D:\\UPB\\RepoFinalServer\\Server juego\\Server\\CS_SocketIO-main\\CS_SocketIO\\CS_SocketIO.csproj",
         "projectName": "CS_SocketIO",
-        "projectPath": "D:\\Equipo\\Documentos\\GitHub\\SystemsWork\\Systems Work\\Original\\CS_SocketIO-main\\CS_SocketIO\\CS_SocketIO.csproj",
-        "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-        "outputPath": "D:\\Equipo\\Documentos\\GitHub\\SystemsWork\\Systems Work\\Original\\CS_SocketIO-main\\CS_SocketIO\\obj\\",
+        "projectPath": "D:\\UPB\\RepoFinalServer\\Server juego\\Server\\CS_SocketIO-main\\CS_SocketIO\\CS_SocketIO.csproj",
+        "packagesPath": "C:\\Users\\Escan\\.nuget\\packages\\",
+        "outputPath": "D:\\UPB\\RepoFinalServer\\Server juego\\Server\\CS_SocketIO-main\\CS_SocketIO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Escan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,21 +61,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Equipo\\Documentos\\GitHub\\SystemsWork\\Systems Work\\Original\\CS_SocketIO-main\\ExampleServer\\ExampleServer.csproj": {
+    "D:\\UPB\\RepoFinalServer\\Server juego\\Server\\CS_SocketIO-main\\ExampleServer\\ExampleServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Equipo\\Documentos\\GitHub\\SystemsWork\\Systems Work\\Original\\CS_SocketIO-main\\ExampleServer\\ExampleServer.csproj",
+        "projectUniqueName": "D:\\UPB\\RepoFinalServer\\Server juego\\Server\\CS_SocketIO-main\\ExampleServer\\ExampleServer.csproj",
         "projectName": "ExampleServer",
-        "projectPath": "D:\\Equipo\\Documentos\\GitHub\\SystemsWork\\Systems Work\\Original\\CS_SocketIO-main\\ExampleServer\\ExampleServer.csproj",
-        "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-        "outputPath": "D:\\Equipo\\Documentos\\GitHub\\SystemsWork\\Systems Work\\Original\\CS_SocketIO-main\\ExampleServer\\obj\\",
+        "projectPath": "D:\\UPB\\RepoFinalServer\\Server juego\\Server\\CS_SocketIO-main\\ExampleServer\\ExampleServer.csproj",
+        "packagesPath": "C:\\Users\\Escan\\.nuget\\packages\\",
+        "outputPath": "D:\\UPB\\RepoFinalServer\\Server juego\\Server\\CS_SocketIO-main\\ExampleServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Escan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Equipo\\Documentos\\GitHub\\SystemsWork\\Systems Work\\Original\\CS_SocketIO-main\\CS_SocketIO\\CS_SocketIO.csproj": {
-                "projectPath": "D:\\Equipo\\Documentos\\GitHub\\SystemsWork\\Systems Work\\Original\\CS_SocketIO-main\\CS_SocketIO\\CS_SocketIO.csproj"
+              "D:\\UPB\\RepoFinalServer\\Server juego\\Server\\CS_SocketIO-main\\CS_SocketIO\\CS_SocketIO.csproj": {
+                "projectPath": "D:\\UPB\\RepoFinalServer\\Server juego\\Server\\CS_SocketIO-main\\CS_SocketIO\\CS_SocketIO.csproj"
               }
             }
           }
@@ -120,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

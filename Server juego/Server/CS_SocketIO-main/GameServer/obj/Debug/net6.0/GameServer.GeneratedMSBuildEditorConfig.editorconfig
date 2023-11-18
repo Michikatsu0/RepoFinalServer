@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GameServer
-build_property.ProjectDir = D:\Equipo\Documentos\GitHub\SystemsWork\Systems Work\Original\CS_SocketIO-main\GameServer\
+build_property.ProjectDir = D:\UPB\RepoFinalServer\Server juego\Server\CS_SocketIO-main\GameServer\
